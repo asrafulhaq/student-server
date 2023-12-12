@@ -1,0 +1,41 @@
+{
+  "students": [
+    {
+      "name": "Ripon",
+      "age": 120,
+      "gender": "Male",
+      "skill": "MERN Devs",
+      "id": 1
+    },
+    {
+      "name": "Ashraful",
+      "age": 320,
+      "gender": "Male",
+      "skill": "IOS Devs",
+      "id": 2
+    },
+    {
+      "name": "Askil",
+      "age": 520,
+      "gender": "Male",
+      "skill": "IOS Devs",
+      "id": 3
+    },
+    {
+      "name": "Tahmid",
+      "age": 620,
+      "gender": "Male",
+      "skill": "DSA Devs",
+      "id": 4
+    },
+    {
+      "name": "Nusrat",
+      "age": 20,
+      "gender": "Female",
+      "skill": "Docker Devs",
+      "id": 5
+    }
+  ],
+  "teachers": [],
+  "staff": []
+}
